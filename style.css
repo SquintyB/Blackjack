@@ -5,6 +5,7 @@
 
 header {
   text-align: center;
+  margin-top: 1.5rem;
 }
 
 .play-area {
@@ -25,4 +26,9 @@ header {
   width: 47%;
   height: 50%;
   margin-left: 1rem;
+}
+
+.play-area h1 {
+  text-align: center;
+  margin-top: 1rem;
 }
